@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1628312320 source:e:\6th sem academics\fs mini\player\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<iomanip>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+
